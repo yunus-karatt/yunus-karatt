@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @yunus-karatt
-- 👀 I’m interested in software development
+- 👀 I’m interested in software development, with a focus on the MERN stack (MongoDB, Express.js, React, Node.js).
 - 🌱 I’m currently self-learning and growing in the field.
-- 💞️ I’m looking to collaborate on interesting projects.
+- 💞️ I’m looking to collaborate on interesting MERN stack projects.
 - 📫 How to reach me: [karattyunus@gmail.com](mailto:karattyunus@gmail.com)
+
 
 
 <!---
